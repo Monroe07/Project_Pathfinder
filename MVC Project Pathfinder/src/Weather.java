@@ -14,7 +14,7 @@ public class Weather {
     String _lon;
     final String units = "&units=imperial";
     final String urlSecondPart = "&appid=";
-    final String apiKey = "3f5a6027649bfe25164da8446d98ba65";
+    final String apiKey = "YOUR_API_KEY";
 
 
 
